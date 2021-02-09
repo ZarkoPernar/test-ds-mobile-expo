@@ -1,0 +1,12 @@
+{
+  "name": "test-ds-mobile-expo",
+  "displayName": "test-ds-mobile-expo",
+  "expo": {
+    "name": "test-ds-mobile-expo",
+    "slug": "test-ds-mobile-expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
