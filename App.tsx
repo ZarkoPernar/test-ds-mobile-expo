@@ -9,7 +9,7 @@ import {
 	TextInput,
 	Form,
 	CheckBox,
-} from "./ds";
+} from "@unibuddy/ds";
 
 export default function App() {
 	return (
